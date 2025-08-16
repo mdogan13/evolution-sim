@@ -1,0 +1,345 @@
+{
+  "tick": 4473,
+  "agents": [
+    {
+      "id": 0,
+      "speciesId": "123",
+      "x": 257.9324760959208,
+      "y": 411.97632274190755,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 1,
+      "speciesId": "123",
+      "x": 52.16550549196185,
+      "y": -228.30674415683865,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 2,
+      "speciesId": "123",
+      "x": 176.9712057673553,
+      "y": 466.71725199225835,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 3,
+      "speciesId": "123",
+      "x": 492.2524008114435,
+      "y": 500.4824497151145,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 4,
+      "speciesId": "123",
+      "x": 324.5080877694821,
+      "y": 445.39554432265544,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 5,
+      "speciesId": "123",
+      "x": 332.0759677408381,
+      "y": 336.85837612157763,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 6,
+      "speciesId": "123",
+      "x": 663.85815140112,
+      "y": 674.9659644302367,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 7,
+      "speciesId": "123",
+      "x": 476.8613946141526,
+      "y": 181.33275897922718,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 8,
+      "speciesId": "123",
+      "x": -92.82699295983156,
+      "y": -243.43377491414236,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 9,
+      "speciesId": "123",
+      "x": 480.01356503302,
+      "y": 451.61035500831724,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 10,
+      "speciesId": "123",
+      "x": 121.19778546800991,
+      "y": -303.2703691665267,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 11,
+      "speciesId": "123",
+      "x": -21.15250246339354,
+      "y": 83.65537371837242,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 12,
+      "speciesId": "123",
+      "x": 422.85757776217724,
+      "y": 328.5183802548188,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 13,
+      "speciesId": "123",
+      "x": 160.0015980618467,
+      "y": 445.1911949754624,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 14,
+      "speciesId": "123",
+      "x": -22.007530205327672,
+      "y": 134.2400426938142,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 15,
+      "speciesId": "123",
+      "x": 11.215810169809771,
+      "y": 314.5226490604161,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 16,
+      "speciesId": "123",
+      "x": 385.99922146043247,
+      "y": 182.320917391263,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 17,
+      "speciesId": "123",
+      "x": 288.938180999218,
+      "y": -76.48140953966673,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 18,
+      "speciesId": "123",
+      "x": 133.98571411404848,
+      "y": 322.6163924552247,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    },
+    {
+      "id": 19,
+      "speciesId": "123",
+      "x": 503.70764536623005,
+      "y": 724.8491561072129,
+      "speed": 4,
+      "age": 4473,
+      "size": 3,
+      "dna": {
+        "maxSpeed": 5,
+        "lifeSpan": 5,
+        "maxSize": 5,
+        "color": "ffffff",
+        "perceptionRadius": 5,
+        "mutationProbability": 5
+      }
+    }
+  ]
+}
