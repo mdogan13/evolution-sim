@@ -47,14 +47,6 @@ export class World {
         }
     }
 
-    // tick() {
-    //     this.state.tick++;
-    //     this.state.agents.forEach((agent: Agent) => {
-    //         agent.update({ agents: this.state.agents });
-
-    //     });
-    // }
-
     tick() {
         this.state.tick++;
         this.state.agents.forEach((agent: Agent) => {
@@ -66,7 +58,6 @@ export class World {
         });
     }
     
-
     getState(): any {
         return this.state;
     }

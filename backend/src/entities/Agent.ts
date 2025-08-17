@@ -73,6 +73,14 @@ export class Agent {
     //     }
     // }
 
+    handleEdgeCollision(world: { agents: Agent[], width: number, height: number }){
+
+    }
+
+    growOlder(){
+        
+    }
+
     update(world: { agents: Agent[], width: number, height: number }) {
         this.age++;
     
