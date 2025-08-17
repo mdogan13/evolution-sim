@@ -1,37 +1,35 @@
 import express from "express";
 import { WebSocketServer } from "ws";
-import { tick, getState, loadState, saveState } from "./simulation";
+import { World } from "./entities/World";
 
 const PORT = 3000;
-
 const app = express();
 const server = app.listen(PORT, () => {
   console.log(`Backend running on http://localhost:${PORT}`);
 });
 
-// WebSocket
 const wss = new WebSocketServer({ server });
 
-// Load previous state or start fresh
-loadState();
 
-// Simulation loop
-setInterval(() => {
-  tick();
+const world = new World([500, 500]);
 
-  // Broadcast state every second
-  const state = getState();
+world.init();
+
+const broadcastState = () => {
+  const state = world.getState();
   wss.clients.forEach(client => {
     if (client.readyState === 1) {
       client.send(JSON.stringify(state));
     }
   });
+}
+
+setInterval(() => {
+  broadcastState();
 }, 200);
 
-// Save snapshot every 5 minutes
 setInterval(() => {
-  saveState();
-  console.log("State saved to JSON");
+  world.saveState();
 }, 5 * 60 * 1000);
 
 // Simple REST test route
